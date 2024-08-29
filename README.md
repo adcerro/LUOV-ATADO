@@ -11,7 +11,7 @@
 <!-- Badges -->
 <p>
   <a href="https://github.com/tllach/LUOV-ATADO/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/tllach/LUOV-ATADO" alt="license" />
+    <img src="https://img.shields.io/github/license/tllach/LUOV-ATADO?style=flat" alt="license" />
   </a>
 </p>
 </div>
