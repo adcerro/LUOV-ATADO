@@ -10,7 +10,7 @@
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/tllach/LUOV-ATADO/main/LICENSE">
+  <a href="https://github.com/tllach/LUOV-ATADO/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/tllach/LUOV-ATADO" alt="license" />
   </a>
 </p>
