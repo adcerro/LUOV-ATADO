@@ -127,7 +127,9 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 ## :handshake: Contact
 
 Tabata - [@tllach](https://github.com/tllach) - tllach@uninorte.edu.co
+
 Doriano - [@Doriano Ojeda](https://github.com/DorianoOjeda) - dorianoo@uninorte.edu.co
+
 Alan - [@adcerro](https://github.com/adcerro) - adcerro@uninorte.edu.co
 
 Project Link: [https://github.com/tllach/LUOV-ATADO/](https://github.com/tllach/LUOV-ATADO/)
