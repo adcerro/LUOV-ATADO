@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://giphy.com/embed/fo4SEMvL8vdd2v2ffp.gif" width="100">
+
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG02cHYycmVlczJxY215MG1ocTVzMXYzOHVsdG1ldDdxbjB5czFtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fo4SEMvL8vdd2v2ffp/giphy.webp" width="100">
   <!--- via GIPHY -->
-  <h1>A LUOV cryptography</h1>
+  <h1>A LUOV cryptosystem Key generator</h1>
   
   <p>
-    An implementation of the LUOV cryptography system 
+    An implementation of key generation for the LUOV cryptography system.
   </p>
   
   
@@ -120,7 +121,7 @@ Contributions are always welcome!
 <!-- License -->
 ## :warning: License
 
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the MIT License. See LICENSE for more information.
 
 
 <!-- Contact -->
