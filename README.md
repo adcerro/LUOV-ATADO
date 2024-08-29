@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG02cHYycmVlczJxY215MG1ocTVzMXYzOHVsdG1ldDdxbjB5czFtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fo4SEMvL8vdd2v2ffp/giphy.webp" width="100">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG02cHYycmVlczJxY215MG1ocTVzMXYzOHVsdG1ldDdxbjB5czFtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fo4SEMvL8vdd2v2ffp/giphy.webp" width="180">
   <!--- via GIPHY -->
   <h1>A LUOV cryptosystem Key generator</h1>
   
