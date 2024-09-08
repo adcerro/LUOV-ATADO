@@ -2,10 +2,10 @@
 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG02cHYycmVlczJxY215MG1ocTVzMXYzOHVsdG1ldDdxbjB5czFtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fo4SEMvL8vdd2v2ffp/giphy.webp" width="180">
   <!--- via GIPHY -->
-  <h1>A LUOV cryptosystem Key generator</h1>
+  <h1>A LUOV cryptosystem public Key generator</h1>
   
   <p>
-    An implementation of key generation for the LUOV cryptography system.
+    An implementation of the public key generation for the LUOV cryptography system.
   </p>
   
   
@@ -28,7 +28,6 @@
 - [Getting Started](#toolbox-getting-started)
   * [Prerequisites](#bangbang-prerequisites)
   * [Installation](#gear-installation)
-  * [Running Tests](#test_tube-running-tests)
 - [Usage](#eyes-usage)
 - [Roadmap](#compass-roadmap)
 - [Contributing](#wave-contributing)
@@ -41,7 +40,7 @@
 
 <!-- About the Project -->
 ## :star2: About the Project
-This is an implementation of the LUOV crytosystem.
+This is an implementation of the LUOV cryptosystem.
 
 <!-- TechStack -->
 ### :space_invader: Tech Stack
@@ -64,8 +63,6 @@ This is an implementation of the LUOV crytosystem.
 ### :dart: Features
 
 - Key Generation
-- Feature 2
-- Feature 3
 
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
@@ -73,38 +70,22 @@ This is an implementation of the LUOV crytosystem.
 <!-- Prerequisites -->
 ### :bangbang: Prerequisites
 
-This project uses Python
+This project uses Python with numpy and galois
 
 <!-- Installation -->
 ### :gear: Installation
 
 Download the executable
-   
-<!-- Running Tests -->
-### :test_tube: Running Tests
-
-To run tests, run the following command
-
-```bash
-  python test
-```
 
 <!-- Usage -->
 ## :eyes: Usage
 
-Just run the file with
-
-
-```python
-python main.py
-```
+Just open the file with any editor that supports jupyter notebooks
 
 <!-- Roadmap -->
 ## :compass: Roadmap
 
 * [x] Key Generation
-* [ ] Complex key generation
-
 
 <!-- Contributing -->
 ## :wave: Contributing
