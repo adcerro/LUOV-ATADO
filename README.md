@@ -40,7 +40,7 @@
 
 <!-- About the Project -->
 ## :star2: About the Project
-This is an implementation of the LUOV cryptosystem.
+This is an implementation of the public key generation algorithm of the LUOV cryptosystem, with the goal of learning for the cryptography course.
 
 <!-- TechStack -->
 ### :space_invader: Tech Stack
