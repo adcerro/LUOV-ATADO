@@ -2,10 +2,10 @@
 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG02cHYycmVlczJxY215MG1ocTVzMXYzOHVsdG1ldDdxbjB5czFtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fo4SEMvL8vdd2v2ffp/giphy.webp" width="180">
   <!--- via GIPHY -->
-  <h1>A LUOV cryptosystem public Key generator</h1>
+  <h1>A LUOV cryptosystem implementation</h1>
   
   <p>
-    An implementation of the public key generation for the LUOV cryptography system.
+    An implementation of the LUOV cryptography system.
   </p>
   
   
@@ -40,7 +40,7 @@
 
 <!-- About the Project -->
 ## :star2: About the Project
-This is an implementation of the public key generation algorithm of the LUOV cryptosystem, with the goal of learning for the cryptography course.
+This is an implementation of the LUOV cryptosystem, with the goal of learning for the cryptography course.
 
 <!-- TechStack -->
 ### :space_invader: Tech Stack
@@ -63,6 +63,8 @@ This is an implementation of the public key generation algorithm of the LUOV cry
 ### :dart: Features
 
 - Key Generation
+- Signing
+- Verification
 
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
@@ -86,6 +88,9 @@ Just open the file with any editor that supports jupyter notebooks
 ## :compass: Roadmap
 
 * [x] Key Generation
+* [x] Message Signing
+* [x] Signature Verification
+* [ ] Proper Q2 encoding and decoding
 
 <!-- Contributing -->
 ## :wave: Contributing
