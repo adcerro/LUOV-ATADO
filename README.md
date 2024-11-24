@@ -90,7 +90,7 @@ Just open the file with any editor that supports jupyter notebooks
 * [x] Key Generation
 * [x] Message Signing
 * [x] Signature Verification
-* [ ] Proper Q2 encoding and decoding
+* [x] Proper Q2 encoding and decoding
 
 <!-- Contributing -->
 ## :wave: Contributing
